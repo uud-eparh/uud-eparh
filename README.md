@@ -31,10 +31,11 @@
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### Начальный уровень (учебные проекты)
+### Учебные проекты 
 - **Greenplum** — MPP-архитектура, распределённые запросы
 - **ClickHouse** — аналитические БД, колоночное хранение
 - **PySpark** — обработка больших данных, RDD, DataFrames
+- **Vertica** — аналитическая колоночная БД
 
 ## 📁 Пет-проекты
 
@@ -42,7 +43,14 @@
 | :--- | :--- | :--- | :--- |
 | **[Pet_ETL](https://github.com/uud-eparh/Pet_ETL)** | ETL-пайплайн для курсов валют ЦБ РФ: сбор из API, трансформация, загрузка в PostgreSQL, оркестрация Airflow, визуализация в Grafana | `Python` (pandas, requests), `PostgreSQL`, `Apache Airflow`, `Docker`, `Grafana` | ✅ [`README.md` внутри проекта](https://github.com/uud-eparh/Pet_ETL/blob/main/README.md) |
 
-> Планирую добавлять проекты с `Greenplum`, `ClickHouse` и `PySpark`
+## 📚 Другие учебные проекты
+
+Все проекты можно посмотреть в моём [GitHub-профиле](https://github.com/uud-eparh). Среди них:
+- `std16_121` — работа с Greenplum и ClickHouse
+- `de-start-sprint-analytical-databases` — работа с Vertica
+- `de-project-sprint-7` — обработка данных с PySpark
+- `de-start-sprint-etl-airflow-project` — ETL с Airflow
+- `de-start-sprint-dwh-multi-sources-project` — DWH с несколькими источниками
 
 ## 📫 Как со мной связаться
 
@@ -53,7 +61,7 @@
 ## 🎯 Что дальше?
 
 Если вам интересен мой профиль или у вас есть вопрос, пишите в Telegram — я отвечаю быстро.  
-Если хотите посмотреть код поближе — все репозитории открыты, а внутри `Pet_ETL` есть подробный README с инструкцией по запуску.
+Если хотите посмотреть код поближе — все репозитории открыты.
 
 ---
 
