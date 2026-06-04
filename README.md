@@ -54,6 +54,7 @@
 | Проект | Стек |
 | :--- | :--- |
 | **[Pet_ETL](https://github.com/uud-eparh/Pet_ETL)** | Python, Airflow, PostgreSQL, Docker, Grafana |
+| **[de-start-sprint-cloud-technologies](https://github.com/uud-eparh/de-start-sprint-cloud-technologies)** | Python, Flask, Kafka, PostgreSQL, Redis, Docker, Kubernetes, Helm, Yandex Cloud, DataLens |
 | **[de-start-sprint-etl-airflow-project](https://github.com/uud-eparh/de-start-sprint-etl-airflow-project)** | Python, Airflow, PostgreSQL |
 | **[de-start-sprint-dwh-multi-sources-project](https://github.com/uud-eparh/de-start-sprint-dwh-multi-sources-project)** | Python, SQL, PostgreSQL |
 | **[de-start-sprint-analytical-databases](https://github.com/uud-eparh/de-start-sprint-analytical-databases)** | Vertica, SQL |
