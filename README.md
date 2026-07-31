@@ -72,16 +72,6 @@
 | **[de-project-sprint-7](https://github.com/uud-eparh/de-project-sprint-7)** | Python, PySpark |
 | **[agentic_analytics](https://github.com/uud-eparh/agentic_analytics)** | Python, ClickHouse, Ollama (Mistral 7B), Superset, Docker |
 
-### Учебный production-проект (DWH на микросервисах)
-| Компонент | Технологии |
-| :--- | :--- |
-| Архитектура | STG → DDS (Data Vault) → CDM |
-| Оркестрация | Kubernetes, Helm |
-| Потоковая обработка | Apache Kafka, Python (Flask), confluent-kafka |
-| Хранилища | PostgreSQL (Managed), Valkey (Redis) |
-| Облако | Yandex Cloud |
-| BI | DataLens |
-
 ## 📫 Как со мной связаться
 
 - **GitHub:** [uud-eparh](https://github.com/uud-eparh)
