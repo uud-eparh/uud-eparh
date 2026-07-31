@@ -14,6 +14,7 @@
 - ✅ Я **понимаю, как данные текут** из API в витрины и дашборды — не просто пишу код, а вижу картину целиком
 - ✅ Я **умею гуглить и разбираться сам** — 14 лет в сисадминах без наставника приучили не пасовать перед сложностями
 - ✅ Я **хочу расти** — ищу не подработку, а место, где смогу научиться новому и приносить пользу
+- ✅ Я **строил LLM-агента** — в проекте Agentic Analytics интегрировал ClickHouse, Ollama и Superset для скоринга клиентов
 
 ## 🛠️ Мой стек технологий
 
@@ -48,9 +49,10 @@
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![DataLens](https://img.shields.io/badge/DataLens-2C7CAB?style=for-the-badge&logo=data&logoColor=white)
+![Superset](https://img.shields.io/badge/Superset-20A6C9?style=for-the-badge&logo=apache-superset&logoColor=white)
 
 ### Backend и библиотеки
-- Flask, FastAPI, Pydantic, APScheduler, psycopg2, confluent-kafka, redis-py, boto3 (S3)
+- Flask, FastAPI, Pydantic, APScheduler, psycopg2, confluent-kafka, redis-py, boto3 (S3), Ollama, Mistral 7B, LLM, промпт-инжиниринг
 
 ### Методологии и подходы
 - Data Vault (Hub, Link, Satellite), DWH (RAW/STAGING/DWH), идемпотентность, инкрементальная загрузка, потоковая обработка (Spark Streaming)
@@ -68,6 +70,7 @@
 | **[de-start-sprint-analytical-databases](https://github.com/uud-eparh/de-start-sprint-analytical-databases)** | Vertica, SQL |
 | **[std16_121](https://github.com/uud-eparh/std16_121)** | Greenplum, ClickHouse, PL/pgSQL |
 | **[de-project-sprint-7](https://github.com/uud-eparh/de-project-sprint-7)** | Python, PySpark |
+| **[agentic_analytics](https://github.com/uud-eparh/agentic_analytics)** | Python, ClickHouse, Ollama (Mistral 7B), Superset, Docker |
 
 ### Учебный production-проект (DWH на микросервисах)
 | Компонент | Технологии |
