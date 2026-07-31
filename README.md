@@ -62,6 +62,7 @@
 
 | Проект | Стек |
 | :--- | :--- |
+| **[agentic_analytics](https://github.com/uud-eparh/agentic_analytics)** | Python, ClickHouse, Ollama (Mistral 7B), Superset, Docker |
 | **[de0-project-final](https://github.com/uud-eparh/de0-project-final)** | Python, PySpark, Kafka, PostgreSQL, Vertica, S3, Airflow, Docker |
 | **[de-start-sprint-cloud-technologies](https://github.com/uud-eparh/de-start-sprint-cloud-technologies)** | Python, Flask, Kafka, PostgreSQL, Redis, Docker, Kubernetes, Helm, Yandex Cloud, DataLens |
 | **[Pet_ETL](https://github.com/uud-eparh/Pet_ETL)** | Python, Airflow, PostgreSQL, Docker, Grafana |
@@ -70,7 +71,7 @@
 | **[de-start-sprint-analytical-databases](https://github.com/uud-eparh/de-start-sprint-analytical-databases)** | Vertica, SQL |
 | **[std16_121](https://github.com/uud-eparh/std16_121)** | Greenplum, ClickHouse, PL/pgSQL |
 | **[de-project-sprint-7](https://github.com/uud-eparh/de-project-sprint-7)** | Python, PySpark |
-| **[agentic_analytics](https://github.com/uud-eparh/agentic_analytics)** | Python, ClickHouse, Ollama (Mistral 7B), Superset, Docker |
+
 
 ## 📫 Как со мной связаться
 
