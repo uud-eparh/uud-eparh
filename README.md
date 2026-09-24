@@ -2,15 +2,14 @@
 
 ## 👨‍💻 Обо мне
 
-Я системный администратор с 14-летним стажем. В 2026 году закончил курс «Инженер данных» в Яндекс.Практикуме и теперь ищу возможность применить знания в Data Engineering.
+Системный администратор с 14-летним стажем, целенаправленно перешёл в **Data Engineering**. В 2026 году завершил профессиональную переподготовку в Яндекс.Практикуме по программе **«Инженер данных»** (540 часов).
 
-## 💡 Почему я могу быть вам полезен
+Строю ETL-пайплайны, проектирую DWH и работаю с большими данными. Люблю автоматизировать рутину и делать процессы прозрачными.
 
-- ✅ У меня есть **работающий ETL-пайплайн** в продакшен-подобной среде (Airflow, Docker, PostgreSQL, Grafana)
-- ✅ Я **понимаю, как данные текут** из API в витрины и дашборды — не просто пишу код, а вижу картину целиком
-- ✅ Я **умею гуглить и разбираться сам** — 14 лет в сисадминах без наставника приучили не пасовать перед сложностями
-- ✅ Я **хочу расти** — ищу не подработку, а место, где смогу научиться новому и приносить пользу
-- ✅ Я **строил LLM-агента** — в проекте Agentic Analytics интегрировал ClickHouse, Ollama и Superset для скоринга клиентов
+- 🔭 Сейчас ищу позицию **Data Engineer (Junior)** или **стажировку**
+- 🌱 Углубляюсь в: **dbt**, **Data Quality**, **облачные технологии**
+- 💼 Открыт к удалённой работе из Чебоксар
+- 🎯 Цель: стать уверенным Data Engineer и строить надёжные data-платформы
 
 ## 🛠️ Мой стек технологий
 
@@ -18,7 +17,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 ![Greenplum](https://img.shields.io/badge/Greenplum-008675?style=for-the-badge&logo=vmware&logoColor=white)
 ![Vertica](https://img.shields.io/badge/Vertica-95989A?style=for-the-badge&logo=vertica&logoColor=white)
@@ -26,48 +24,55 @@
 ### Big Data и потоковая обработка
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Debezium](https://img.shields.io/badge/Debezium-FF6B6B?style=for-the-badge&logo=debezium&logoColor=white)
 
-### Оркестрация, контейнеризация и CI/CD
+### Оркестрация и контейнеризация
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/helm-0B4C6F?style=for-the-badge&logo=helm&logoColor=white)
 
-### Облачные технологии и инфраструктура
+### Облачные технологии
 ![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-00BFFF?style=for-the-badge&logo=yandexcloud&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
-### Операционные системы
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### Инструменты разработки, визуализации и CI/CD
+### Инструменты и визуализация
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Superset](https://img.shields.io/badge/Superset-20A6C9?style=for-the-badge&logo=apache&logoColor=white)
 ![DataLens](https://img.shields.io/badge/DataLens-2C7CAB?style=for-the-badge&logo=data&logoColor=white)
-![Superset](https://img.shields.io/badge/Superset-20A6C9?style=for-the-badge&logo=apache-superset&logoColor=white)
 
-### Backend и библиотеки
-- Flask, FastAPI, Pydantic, APScheduler, psycopg2, confluent-kafka, redis-py, boto3 (S3), Ollama, Mistral 7B, LLM, промпт-инжиниринг
+## 🚀 Флагманские проекты
 
-### Методологии и подходы
-- Data Vault (Hub, Link, Satellite), DWH (RAW/STAGING/DWH), идемпотентность, инкрементальная загрузка, потоковая обработка (Spark Streaming)
-- Документирование, написание README, аналитическое мышление, работа в команде, Jira/Confluence
+### 📚 [Book Hub](https://github.com/uud-eparh/books) — библиотека на 700k+ книг
+Полноценная библиотека FB2 с точечным скачиванием через BitTorrent. FastAPI, PostgreSQL (FTS + trigram), Telegram-бот, Docker Compose, 36 тестов.
+**🤖 Работающий бот:** [@flibusta_fb2_bot](https://t.me/flibusta_fb2_bot)
+`Python` `FastAPI` `PostgreSQL` `aiogram` `Docker` `libtorrent`
 
-## 📁 Проекты
+### 🤖 [Agentic Analytics](https://github.com/uud-eparh/agentic_analytics) — LLM-агент для E-commerce
+Дата-контур для скоринга проблемных клиентов: 406k+ транзакций → ClickHouse → LLM-агент (Ollama + Mistral 7B) → Superset.
+`Python` `ClickHouse` `Ollama` `Superset` `Docker`
 
-| Проект | Стек |
-| :--- | :--- |
-| **[agentic_analytics](https://github.com/uud-eparh/agentic_analytics)** | Python, ClickHouse, Ollama (Mistral 7B), Superset, Docker |
-| **[de0-project-final](https://github.com/uud-eparh/de0-project-final)** | Python, PySpark, Kafka, PostgreSQL, Vertica, S3, Airflow, Docker |
-| **[de-start-sprint-cloud-technologies](https://github.com/uud-eparh/de-start-sprint-cloud-technologies)** | Python, Flask, Kafka, PostgreSQL, Redis, Docker, Kubernetes, Helm, Yandex Cloud, DataLens |
-| **[Pet_ETL](https://github.com/uud-eparh/Pet_ETL)** | Python, Airflow, PostgreSQL, Docker, Grafana |
-| **[de-start-sprint-etl-airflow-project](https://github.com/uud-eparh/de-start-sprint-etl-airflow-project)** | Python, Airflow, PostgreSQL |
-| **[de-start-sprint-dwh-multi-sources-project](https://github.com/uud-eparh/de-start-sprint-dwh-multi-sources-project)** | Python, SQL, PostgreSQL |
-| **[de-start-sprint-analytical-databases](https://github.com/uud-eparh/de-start-sprint-analytical-databases)** | Vertica, SQL |
-| **[std16_121](https://github.com/uud-eparh/std16_121)** | Greenplum, ClickHouse, PL/pgSQL |
-| **[de-project-sprint-7](https://github.com/uud-eparh/de-project-sprint-7)** | Python, PySpark |
+### 🔄 [Debezium Retail Tracker](https://github.com/uud-eparh/debezium_retail_tracker) — CDC-пайплайн
+CDC-пайплайн для отслеживания изменений в PostgreSQL в реальном времени: Debezium + Kafka + Docker.
+`PostgreSQL` `Debezium` `Kafka` `Docker`
 
+### 🏗️ [Cloud DWH Pipeline](https://github.com/uud-eparh/de-start-sprint-cloud-technologies) — микросервисный DWH
+DWH с моделью Data Vault, развёрнутый в Kubernetes с Helm. Дашборды в DataLens.
+`FastAPI` `Kafka` `PostgreSQL` `Kubernetes` `Helm` `DataLens`
+
+## 📁 Все проекты
+
+| Проект | Описание | Стек |
+| :--- | :--- | :--- |
+| **[books](https://github.com/uud-eparh/books)** | Библиотека 700k+ книг с Telegram-ботом | Python, FastAPI, PostgreSQL, Docker |
+| **[agentic_analytics](https://github.com/uud-eparh/agentic_analytics)** | LLM-агент для скоринга клиентов | Python, ClickHouse, Ollama, Superset |
+| **[debezium_retail_tracker](https://github.com/uud-eparh/debezium_retail_tracker)** | CDC-пайплайн в реальном времени | PostgreSQL, Debezium, Kafka, Docker |
+| **[de0-project-final](https://github.com/uud-eparh/de0-project-final)** | DWH для финтех-аналитики | PySpark, Kafka, Airflow, Vertica |
+| **[de-start-sprint-cloud-technologies](https://github.com/uud-eparh/de-start-sprint-cloud-technologies)** | Микросервисный DWH с Data Vault | FastAPI, Kafka, Kubernetes, Helm |
+| **[de-start-sprint-stream-project](https://github.com/uud-eparh/de-start-sprint-stream-project)** | Spark Structured Streaming | PySpark, Kafka, PostgreSQL |
+| **[Pet_ETL](https://github.com/uud-eparh/Pet_ETL)** | ETL-пайплайн для курсов валют | Python, Airflow, PostgreSQL, Grafana |
+| **[std16_121](https://github.com/uud-eparh/std16_121)** | ETL/ELT для Greenplum и ClickHouse | Greenplum, ClickHouse, PL/pgSQL, Airflow |
 
 ## 📫 Как со мной связаться
 
@@ -77,9 +82,8 @@
 
 ## 🎯 Что дальше?
 
-Если вам интересен мой профиль или у вас есть вопрос, пишите в Telegram — я отвечаю быстро.  
-Если хотите посмотреть код поближе — все репозитории открыты.
+Открыт к предложениям о стажировке или Junior-позиции Data Engineer. Готов к удалённой работе, тестовым заданиям и собеседованиям.
 
 ---
 
-Спасибо, что заглянули! Всегда открыт для обсуждения интересных задач и профессионального общения. 🤝
+Спасибо, что заглянули! 🤝
