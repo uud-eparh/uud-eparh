@@ -44,39 +44,34 @@
 
 ## 🚀 Флагманские проекты
 
-### 📚 [book-hub](https://github.com/uud-eparh/book-hub) — библиотека на 700k+ книг
+### 📚 [Book Hub](https://github.com/uud-eparh/books) — библиотека на 700k+ книг
 Полноценная библиотека FB2 с точечным скачиванием через BitTorrent. FastAPI, PostgreSQL (FTS + trigram), Telegram-бот, Docker Compose, 36 тестов.
 **🤖 Работающий бот:** [@flibusta_fb2_bot](https://t.me/flibusta_fb2_bot)
 `Python` `FastAPI` `PostgreSQL` `aiogram` `Docker` `libtorrent`
 
-### 🤖 [llm-analytics-agent](https://github.com/uud-eparh/llm-analytics-agent) — LLM-агент для E-commerce
+### 🤖 [Agentic Analytics](https://github.com/uud-eparh/agentic_analytics) — LLM-агент для E-commerce
 Дата-контур для скоринга проблемных клиентов: 406k+ транзакций → ClickHouse → LLM-агент (Ollama + Mistral 7B) → Superset.
 `Python` `ClickHouse` `Ollama` `Superset` `Docker`
 
-### 🔄 [cdc-retail-tracker](https://github.com/uud-eparh/cdc-retail-tracker) — CDC-пайплайн
+### 🔄 [Debezium Retail Tracker](https://github.com/uud-eparh/debezium_retail_tracker) — CDC-пайплайн
 CDC-пайплайн для отслеживания изменений в PostgreSQL в реальном времени: Debezium + Kafka + Docker.
 `PostgreSQL` `Debezium` `Kafka` `Docker`
 
-### 🏗️ [fintech-dwh-pipeline](https://github.com/uud-eparh/fintech-dwh-pipeline) — DWH для финтех-аналитики
+### 🏗️ [DWH для финтех-аналитики](https://github.com/uud-eparh/de0-project-final)
 Трёхуровневое хранилище (RAW → STAGING → DWH) с PySpark, Kafka, Airflow, Vertica.
 `PySpark` `Kafka` `Airflow` `PostgreSQL` `Vertica`
 
-### ☁️ [cloud-dwh-k8s](https://github.com/uud-eparh/cloud-dwh-k8s) — микросервисный DWH в Kubernetes
+### ☁️ [Cloud DWH Pipeline](https://github.com/uud-eparh/de-start-sprint-cloud-technologies)
 DWH с моделью Data Vault, развёрнутый в Kubernetes с Helm. Дашборды в DataLens.
 `FastAPI` `Kafka` `PostgreSQL` `Kubernetes` `Helm` `DataLens`
 
-## 📁 Все проекты
+## 📁 Другие проекты
 
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
-| **[books](https://github.com/uud-eparh/books)** | Библиотека 700k+ книг с Telegram-ботом | Python, FastAPI, PostgreSQL, Docker |
-| **[agentic_analytics](https://github.com/uud-eparh/agentic_analytics)** | LLM-агент для скоринга клиентов | Python, ClickHouse, Ollama, Superset |
-| **[debezium_retail_tracker](https://github.com/uud-eparh/debezium_retail_tracker)** | CDC-пайплайн в реальном времени | PostgreSQL, Debezium, Kafka, Docker |
-| **[de0-project-final](https://github.com/uud-eparh/de0-project-final)** | DWH для финтех-аналитики | PySpark, Kafka, Airflow, Vertica |
-| **[de-start-sprint-cloud-technologies](https://github.com/uud-eparh/de-start-sprint-cloud-technologies)** | Микросервисный DWH с Data Vault | FastAPI, Kafka, Kubernetes, Helm |
-| **[de-start-sprint-stream-project](https://github.com/uud-eparh/de-start-sprint-stream-project)** | Spark Structured Streaming | PySpark, Kafka, PostgreSQL |
 | **[Pet_ETL](https://github.com/uud-eparh/Pet_ETL)** | ETL-пайплайн для курсов валют | Python, Airflow, PostgreSQL, Grafana |
 | **[std16_121](https://github.com/uud-eparh/std16_121)** | ETL/ELT для Greenplum и ClickHouse | Greenplum, ClickHouse, PL/pgSQL, Airflow |
+| **[Stream Project](https://github.com/uud-eparh/de-start-sprint-stream-project)** | Spark Structured Streaming | PySpark, Kafka, PostgreSQL |
 
 ## 📫 Как со мной связаться
 
