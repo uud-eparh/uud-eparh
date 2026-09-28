@@ -49,6 +49,10 @@
 **🤖 Работающий бот:** [@flibusta_fb2_bot](https://t.me/flibusta_fb2_bot)
 `Python` `FastAPI` `PostgreSQL` `aiogram` `Docker` `libtorrent`
 
+### 📊 [ABC/XYZ Retail Analysis](https://github.com/uud-eparh/abc-xyz-retail-analysis) — аналитика ассортимента
+Аналитический проект по оптимизации товарного портфеля: 1M+ транзакций, 5 305 SKU. ABC/XYZ анализ, RFM-сегментация, BCG-матрица, basket analysis. Дашборд в Superset, 15+ графиков.
+`Python` `pandas` `PostgreSQL` `Jupyter` `Superset`
+
 ### 🤖 [Agentic Analytics](https://github.com/uud-eparh/agentic_analytics) — LLM-агент для E-commerce
 Дата-контур для скоринга проблемных клиентов: 406k+ транзакций → ClickHouse → LLM-агент (Ollama + Mistral 7B) → Superset.
 `Python` `ClickHouse` `Ollama` `Superset` `Docker`
@@ -57,13 +61,17 @@
 CDC-пайплайн для отслеживания изменений в PostgreSQL в реальном времени: Debezium + Kafka + Docker.
 `PostgreSQL` `Debezium` `Kafka` `Docker`
 
-### 🏗️ [DWH для финтех-аналитики](https://github.com/uud-eparh/de0-project-final)
-Трёхуровневое хранилище (RAW → STAGING → DWH) с PySpark, Kafka, Airflow, Vertica.
-`PySpark` `Kafka` `Airflow` `PostgreSQL` `Vertica`
+### 🌊 [Restaurant Streaming Service](https://github.com/uud-eparh/restaurant-streaming-service) — потоковые уведомления
+Сервис потоковой обработки акций ресторанов: Spark Structured Streaming, Kafka, PostgreSQL.
+`Python` `PySpark` `Kafka` `PostgreSQL` `Docker`
 
-### ☁️ [Cloud DWH Pipeline](https://github.com/uud-eparh/de-start-sprint-cloud-technologies)
+### ☁️ [Cloud DWH Pipeline](https://github.com/uud-eparh/cloud-dwh-k8s) — микросервисный DWH в Kubernetes
 DWH с моделью Data Vault, развёрнутый в Kubernetes с Helm. Дашборды в DataLens.
 `FastAPI` `Kafka` `PostgreSQL` `Kubernetes` `Helm` `DataLens`
+
+### 💰 [Realtime Fintech DWH](https://github.com/uud-eparh/realtime-fintech-dwh) — хранилище для аналитики транзакций
+Трёхуровневое DWH (RAW → STAGING → DWH) с потоковой обработкой транзакций и витриной global_metrics. PySpark, Kafka, Airflow, Vertica, S3.
+`PySpark` `Kafka` `Airflow` `PostgreSQL` `Vertica` `S3`
 
 ## 📁 Другие проекты
 
